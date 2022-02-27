@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords &amp; Commons assembled in Parliament, for putting the county of Surrey into a posture of defence, by the better regulating of the trained-bands, and raising other forces of horse and foot, for the preservation and safety of the said county, and the pay of such foot as shall belong to the garrison of Farnham-Castle. Die Martis, 1 Julii, 1645. Ordered by the Lords and Commons assembled in Parliament, that this ordinance be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83110</idno>
+            <idno type="STC">Wing E1904</idno>
+            <idno type="STC">Thomason E292_2</idno>
+            <idno type="STC">ESTC R200143</idno>
+            <idno type="EEBO-CITATION">99860948</idno>
+            <idno type="PROQUEST">99860948</idno>
+            <idno type="VID">113075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113075)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E292[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords &amp; Commons assembled in Parliament, for putting the county of Surrey into a posture of defence, by the better regulating of the trained-bands, and raising other forces of horse and foot, for the preservation and safety of the said county, and the pay of such foot as shall belong to the garrison of Farnham-Castle. Die Martis, 1 Julii, 1645. Ordered by the Lords and Commons assembled in Parliament, that this ordinance be forthwith printed and published. H. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Jul. 3. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Surrey (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113075:1"/>
+            <p>AN ORDINANCE OF THE Lords &amp; Commons Aſſembled in <hi>PARLIAMENT,</hi> For putting the County of <hi>Sur<g ref="char:EOLhyphen"/>rey</hi> into a poſture of defence, by the better regulating of the Trained-Bands,</p>
+            <p>And raiſing other Forces of Horſe and Foot, for the preſervation and ſafety of the ſaid County, and the pay of ſuch Foot as ſhall belong to the Garriſon of <hi>Farnham</hi>-Caſtle.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 1 Julii, 1645.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament, That this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> Jul. 3. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:113075:2"/>
+            <head>
+               <date>
+                  <hi>Die Martis</hi> 1 <hi>Julii</hi> 1645.</date> An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, for putting the County of <hi>Surrey</hi> into a poſture of de<g ref="char:EOLhyphen"/>fence, by the better regulating of the Train<g ref="char:EOLhyphen"/>ed-Bands, and raiſing other Forces of Horſe and Foot, for the preſervation and ſafety of the ſaid County, and the pay of ſuch Foot as ſhall belong to the Garriſon of <hi>Farnham</hi>-Caſtle.</head>
+            <p>THe Lords and Commons aſſembled in Parliament taking into their ſerious conſiderations the ne<g ref="char:EOLhyphen"/>ceſſity that all the Counties of this Kingdom and Dominion of <hi>Wales,</hi> in this time of imminent danger, ſhould put themſelves into a poſture of defence by raiſing of Forces both of Horſe and Foot, for the ne<g ref="char:EOLhyphen"/>ceſſary defence and ſafety of their Counties, from the incurſion of thoſe raiſed againſt the Parliament, which daily plunder and ſpoile in all parts where they come: And finding that the County of <hi>Surrey</hi> hath not as yet been put into ſuch a poſture of defence as was expect<g ref="char:EOLhyphen"/>ed, by reaſon of differences which have there ariſe, by reaſon of one Ordinance of Parliament for the ſaid County, bearing date the ſeven &amp; twentieth of <hi>July,</hi> one thouſand ſix hundred fourty and three, which was then
+<pb n="3" facs="tcp:113075:2"/>paſſed upon a preſent occaſion of danger that would not admit of a long debate, as by the Preamble of the ſaid Ordinance doth and may appear.</p>
+            <p>Now, for the better ſetling of the ſaid County, and the enabling them fully to put themſelvs into a poſture of defence, it is thought fit, and ſo ordained and decla<g ref="char:EOLhyphen"/>red, that the <hi>Militia</hi> of the ſaid County ſhal be hereafter regulated and executed according to the tenor of this preſent Ordinance, and in no other manner.</p>
+            <p>Be it therefore ordained and declared by the Lords and Comons aſſembled in Parliament, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame, that for the intents and purpoſes before mentionned, the County of <hi>Surrey</hi> ſhall forth<g ref="char:EOLhyphen"/>with be put into a poſture of defence, and ſhall raiſe Forces of Horſe and Foot for the defence of the ſaid County, in manner and forme following in this Ordi<g ref="char:EOLhyphen"/>nance expreſſed, and no otherwiſe: And that the Lord-Lievtenant, or in his abſence, the Deputy-Lievtenants of the ſaid County, or any two or more of them, ſhall forthwith, after notice or receipt of this Ordinance, iſſue out their Warrants to the Conſtables and Head<g ref="char:EOLhyphen"/>boroughs of the ſeveral Pariſhes, or to any two or more of the moſt able &amp; fitting perſons of the Pariſhes with<g ref="char:EOLhyphen"/>in every reſpective hundred or diviſion, thereby requi<g ref="char:EOLhyphen"/>ring them at certain times and places prefixt, to deliver to them a Liſt or Schedule of the names of all perſons within their ſeverall and reſpective Pariſhes, from the age of ſixteen to ſixty, (being of ability of body) and of all other perſons whatſoever worth one hundred pounds or more, in Lands or Goods: and of all Horſes and Mares above foure yeers of age, and the names of the Owners, and of all Arms, Guns, and other uſefull weapons for the War, with the names of the Owners of
+<pb n="4" facs="tcp:113075:3"/>them, except ſuch men and arms as are now, or ſhall be hereafter liſted in the Trained-bands and Trained-troopes. And that the ſaid Lord-Lievtenant, or in his abſence the Deputy-Lievtenants, or any two or more of them, ſhall hereby have power to charge the ſaid par<g ref="char:EOLhyphen"/>ties with horſe and arms, ſo as no perſon be charged with a Harquebuſier or light-horſe, unleſſe he hath one hundred pounds <hi>per annum</hi> in Lands, or be worth one thouſand two hundred pounds in Goods and Lands; nor with a Dragoon, unleſſe he be worth foure hundred pounds in goods, or fourty pounds <hi>per annum</hi> in lands; nor with a whole foot-arms, unleſſe he be worth one hundred pounds in goods, or fifteen pounds <hi>per annum</hi> in lands.</p>
+            <p>And be it further ordained, that all perſons well-affe<g ref="char:EOLhyphen"/>cted, being charged and liſted to ſerve as aforeſaid, or the major part of them, ſhall within their ſeverall and reſpective diviſions forthwith, and ſo from time to time as cauſe ſhall be, propound and nominate Colonells, Lievtenant-Colonells, Serjeant-Maiors, and Captaines over them, being men of ability, and men well-affected, and found faithfull from the beginning of theſe trou<g ref="char:EOLhyphen"/>bles; which ſaid Officers being approved and allowed of by the Lord-Lievtenant, or in his abſence by the Deputy-Lievtenants, or any two or more of them with<g ref="char:EOLhyphen"/>in the ſaid County, ſhall have commiſſions accordingly from the ſaid Lord-Lievtenant of the ſaid County.</p>
+            <p>And be it further ordained, that all and every perſon and perſons whatſoever, which ſhall by virtue of this Ordinance be charged to provide horſe or armes as aforeſaid, ſhall every moneth, after they are ſo charged, pay to the Treaſure appointed by the Lord-Lievte<g ref="char:EOLhyphen"/>nant, or in his abſence by the Deputy-Lievtenants, or
+<pb n="5" facs="tcp:113075:3" rendition="simple:additions"/>any two or more of them for the ſaid County; the ſe<g ref="char:EOLhyphen"/>verall ſums of money following, <hi>viz.</hi> For every horſe<g ref="char:EOLhyphen"/>man twelve pence, for every foot-man ſix pence, to<g ref="char:EOLhyphen"/>wards the providing of trumpets, drums, colours, and other charges incident to the ſaid ſervice.</p>
+            <p>And be it alſo ordained by the Authority aforeſaid, that it ſhall &amp; may be lawfull for the Lord-Lievtenant, or in his abſence for the Deputy-Lievtenants of the ſaid County of <hi>Surrey,</hi> or for any two or more of them within the ſaid County, from time to time, ſo long as the ſaid ſervice ſhall continue, by warrant under their hands and ſeals, to be directed unto the ſeverall and re<g ref="char:EOLhyphen"/>ſpective high-Conſtables of the hundreds within their ſeverall diviſions of the ſaid County, to aſſeſſe and tax, by indifferent rates, upon the Inhabitants of the ſaid County, ſo much money as ſhall be requiſite for the payment of ſuch experienced Majors, Lievtenants, or other inferiour Officers as ſhall be neceſſary for the ſaid ſervice, to be allowed of as aforeſaid, and they ſhall be paid according to the eſtabliſhment of Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi>'s Army, whileſt they are in ſervice, and a moytie of their half pay when they lie ſtill; as likewiſe for the other Officers and Souldiers pay, when they are in ſer<g ref="char:EOLhyphen"/>vice, according to the pay of horſe and foot in the ſaid Army, and not above; and for ſuch other charges as will be incident and neceſſary for the ſaid ſervice. And if any part of the County ſhall performe ſervice, and any other part ſhall not bring up their proportion of men, then that part ſhall be inforced, as is hereafter preſcri<g ref="char:EOLhyphen"/>bed, by the Lord-Lievtenant, or in his abſence by the Deputy-Lievtenants, or any two or more of them, to pay for ſuch Souldiers as they ſhall be defective in, to make all parts equall in charge.</p>
+            <pb n="6" facs="tcp:113075:4" rendition="simple:additions"/>
+            <p>Provided always, That this extraordinary Charge and Impoſition of Arms do not continue any longer then during this time of imminent danger, and that it ſhall be no Preſident for the future.</p>
+            <p>Provided alſo, that no Peer of this Realm, nor any Aſſiſtant or Officer of the Houſe of Peers, or their me<g ref="char:EOLhyphen"/>nuall ſervants, or any Member or Officer of the Houſe of Commons, or their menuall ſervants, be charged by this Ordinance, but that it be left to his or their good affection what they will do in this Service.</p>
+            <p>Provided alſo, That if any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever ſhall be over-charged by the Deputy-Lieute<g ref="char:EOLhyphen"/>nants, or any two of them of the ſaid County, that then the Lord-Lieutenant of the ſaid County ſhall, hereby have power to eaſe ſuch perſon or perſons over-charg<g ref="char:EOLhyphen"/>ed, as in his diſcretion he ſhall think fit. And if any Offi<g ref="char:EOLhyphen"/>cer or Souldier of the Trained-Bands or Troops, or of any other Forces of Horſe or Foot to be raiſed at any time hereafter in the ſaid County by vertue of this Ordinance, ſhall refuſe or neglect, upon Summons ac<g ref="char:EOLhyphen"/>cording to this Ordinance of Parliament, to attend their Charges and Duties in their ſeverall and reſpe<g ref="char:EOLhyphen"/>ctive Charges and Places, to appear with their Horſe and Arms, or to ſend ſome other man with their Horſe and Arms, as they are or ſhall be charged withall; eve<g ref="char:EOLhyphen"/>ry ſuch Defaulter, for every ſuch Offence, ſhall be fined by the ſaid Lord-Lieutenant, or, in his abſence, the Deputy-Lieutenants, or any two or more of them, not exceeding the Sum of ten pounds, and impriſoned till the ſaid Fine be paid. And if any perſon or per<g ref="char:EOLhyphen"/>ſons, who by any former Ordinance of Parliament may be Impreſſed, have been, or hereafter ſhall be charged by the Lord-lieutenant, by the Deputy-lieu<g ref="char:EOLhyphen"/>tenants,
+<pb n="7" facs="tcp:113075:4"/>or any two or more of them, to ſerve in the Arms of any perſon or perſons charged as aforeſaid to finde Arms or Horſe, do or ſhall refuſe or neglect to appear at Muſters, or to ſerve upon ſuch, or in ſuch Arms; he or they ſo refuſing or neglecting, ſhall by the ſaid Lord-lieutenant, or, in his abſence, by the Deputy-lieutenants, or any two or more of them, be fined, not exceeding the ſum of Fourty ſhillings, and impriſoned till the ſaid Fine be paid, and the ſaid per<g ref="char:EOLhyphen"/>ſon or perſons ſo refuſing have conformed themſelves unto the ſaid Service.</p>
+            <p>And it is Ordained, that the Lord-lieutenant, or, in his abſence, the Deputy-lieutenants, or any two or more of them, of the ſaid County, may impriſon all ſuch as ſhall be mutinous, or Diſturbers of the Peace, and may fine them, not exceeding the ſum of Five pounds: And that it ſhall be lawfull for the ſaid Lord-lieutenant, or, in his abſence, the Deputy-lieutenants, or any three of them, to draw together the Troops and Companies which are raiſed or ſhall be raiſed by vertue of this Ordinance, or any part of them, and lead by themſelves, or by ſuch as the Lord-lieutenant, or, in his abſence, any three or more of the Deputy-lieutenants ſhall appoint, into any part of the ſaid County, and with them to Oppoſe, Reſiſt, Kill and Slay all ſuch as in any Hoſtile manner declare themſelves as enemies to the King and Parliament: and that it ſhall and may be lawfull for the ſaid Lord-lieu<g ref="char:EOLhyphen"/>tenant, or in his abſence, for the Deputy-lieutenants, or any one of them, in the ſaid County, to charge Carts, Carriages and Horſes, for the neceſſary Service of the Parliament, allowing for every Cart with Five horſes Twelve pence <hi>per</hi> Mile outward onely, and ſo
+<pb n="8" facs="tcp:113075:5"/>ratably for more or fewer horſes, and for every ſingle horſe after the rate of Two pence <hi>per</hi> Mile outward onely. And in caſe any ſhall refuſe, upon reaſonable notice, to provide their Carts, Carriages and Horſes, to be made uſe of for the Service aforeſaid; it ſhall be lawfull for the ſaid Lord-lieutenant, or in his ab<g ref="char:EOLhyphen"/>ſence, for the Deputy-lieutenants, or any two of them, to impriſon the owners of the ſaid Carts, Carriages and Horſes, or to impoſe a Fine-upon them, not exceeding the ſum of Ten pounds.</p>
+            <p>And it is Ordained, that the petty-Conſtables, and Overſeers of the poor of the ſeverall Pariſhes within the ſaid County, and ſuch other perſons as ſhall be no<g ref="char:EOLhyphen"/>minated by the Lord-lieutenant, or, in his abſence, by the Deputy-lieutenants of the ſaid County, or any two or more of them, ſhal be the Collectors of all Sums of Money as ſhall by vertue of this Ordinance be im<g ref="char:EOLhyphen"/>poſed or ſet upon any perſon or perſons within the ſaid Pariſhes: which ſaid Sums of Money ſo to be ſet and collected as aforeſaid, ſhall be paid unto the high-Conſtables of the ſeverall Hundreds within the ſaid County; and, in Corporations, to the Maior or other head-Officers of the ſaid Corporations, who ſhall re<g ref="char:EOLhyphen"/>ceive and pay over the ſaid Sums to ſuch Treaſurer or Treaſurers as ſhall be appointed in the ſeverall Diviſi<g ref="char:EOLhyphen"/>ons by the Lord-lieutenant, or, in his abſence, by the Deputy-lieutenants of the ſaid County, or any two or more of them, who are to iſſue forth the ſame for the Uſe and Service of the ſaid County, by the Lord-lieu<g ref="char:EOLhyphen"/>tenant, or, in his abſence, by the vote of the major part of the reſpective Deputy-lieutenants of the ſaid Coun<g ref="char:EOLhyphen"/>ty preſent at ſuch Meetings as ſhall be appointed for that purpoſe, and by their Order, in purſuance thereof,
+<pb n="9" facs="tcp:113075:5"/>under their hands, and not otherwiſe. And the ſaid Treaſurers are hereby required to keep a perfect Ac<g ref="char:EOLhyphen"/>compt of all ſuch Moneys as they ſhall receive and pay by vertue of this Ordinance, and to deliver copies of the ſaid Accompts unto the ſaid Lord-lieutenant, or, in his abſence, to the Deputy-lieutenants, or any of them of the ſaid County: and the ſaid Treaſurers, for their Charge and Pains, ſhall be allowed Two pence in the Pound for all ſuch Sums of Money as they ſhall receive and iſſue forth by Authority as aforeſaid. And if any perſon or perſons chargeable by this Ordinance ſhall not, within Six days after demand or notice to be left at their dwelling-houſe, or uſuall place of abode, pay the Sum or Sums on him or them aſſeſſed or ſet as a<g ref="char:EOLhyphen"/>foreſaid; it ſhall be lawfull for the ſaid Collectors, or any one or more of them, to levie ſuch Sum by way of Diſtreſſe and Sale of the Goods of the perſon and per<g ref="char:EOLhyphen"/>ſons ſo aſſeſſed or fined, rendring to the party the overplus of the ſaid ſale, if any ſhall happen to be; and in caſe of Reſiſtance, to call to their aſſiſtance any of the Trained-Bands, or Companies of Volunteers, or other Forces of the ſaid County, who are hereby re<g ref="char:EOLhyphen"/>quired to be aiding and aſſiſting to the Conſtables or other Collectors in the premiſes, as they will anſwer the contrary. And if any perſon or perſons which ſhall be aſſeſſed or fined as aforeſaid, having not ſuffi<g ref="char:EOLhyphen"/>cient Diſtreſſe, or neglect to pay either their Aſſeſſe<g ref="char:EOLhyphen"/>ment or Fine to the Conſtables or other Collectors appointed, within Twelve days after it ſhall be de<g ref="char:EOLhyphen"/>manded; the Lord-lieutenant, or, in his abſence, the Deputy-lieutenants, or any two or more of them, upon the returns of the names of ſuch who ſhall refuſe or neglect, ſhall charge the ſaid perſon or perſons with
+<pb n="10" facs="tcp:113075:6"/>double as much as he or they were aſſeſſed or fined: And if the ſaid perſons ſhall refuſe or neglect to pay the ſaid Sum ſo doubled within other Twelve days af<g ref="char:EOLhyphen"/>ter it ſhall be demanded; that it ſhall be lawfull for the ſaid Lord-lieutenant, or, in his abſence, the Deputy-lieutenants of the ſaid County, or any two or more of them, to commit the ſaid perſon or perſons ſo refu<g ref="char:EOLhyphen"/>ſing or neglecting to priſon. And in caſe the ſaid Treaſurers, high-Conſtables, petty-Conſtables, Over<g ref="char:EOLhyphen"/>ſeers of the Poor, or other Collectors to be nomina<g ref="char:EOLhyphen"/>ted as aforeſaid, ſhall refuſe or neglect to levie and re<g ref="char:EOLhyphen"/>ceive the Sums of Money to be aſſeſſed and ſet by ver<g ref="char:EOLhyphen"/>tue of this Ordinance; it ſhall be lawfull for the ſaid Lord-lieutenant, or, in his abſence, the Deputy-lieu<g ref="char:EOLhyphen"/>tenants, or any two or more of them, of the ſaid County, to fine the ſaid Treaſurers, high-Conſtables and Collectors, not exceeding the ſum of Twenty pounds, to be levied upon them by ſuch perſon or per<g ref="char:EOLhyphen"/>ſons as ſhall be appointed by the ſaid Lord-lieutenant, or, in his abſence, by the Deputy-lieutenants, or any two or more of them, by way of Diſtreſſe and Sale of their Goods, rendring to the party the overplus of the ſaid Sale, if any happen to be.</p>
+            <p>Provided always, that the Forces raiſed by vertue of this Ordinance ſhall not be carried out of the ſaid County without the conſent of the Lord-lieutenant, or, in his abſence, of the Deputy-lieutenants, or any two or more of them.</p>
+            <p>And it is further Ordered and Ordained by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That the Committees hereafter na<g ref="char:EOLhyphen"/>med, or any three or more of them, and no other, ſhall have Power and Authority to rate and tax ſuch Sums of Money upon the ſaid County, as at ſome generall
+<pb n="11" facs="tcp:113075:6"/>Meeting of the ſaid Committee ſhall be agreed to be fit and neceſſary for the paying of ſuch Officers and Souldiers of the Caſtle of <hi>Farnham</hi> and the Gariſon there, as likewiſe for the Troop of Horſe which is now raiſed and maintained by the ſaid County for the defence thereof, and for ſuch other charges as ſhall be thought fit and neceſſary for the defence and ſafety of the ſaid County, at ſome generall Meeting of the ſaid Committee, and the ſame to levie in ſuch manner as is appointed for the levying of Money for raiſing and maintaining of the Forces under the command of Sir <hi>Thomas Fairfax,</hi> in the Ordinance for that purpoſe; the ſaid Committee to conſiſt of theſe perſons, and no other: <hi>Viz. Algernon</hi> Earl of <hi>Northumberland, Henry</hi> Earl of <hi>Kent, Charles</hi> Earl of <hi>Nottingham, William</hi> Lord <hi>Munſon; Denzill Hollis</hi> Eſquire, <hi>Benjamin Weston</hi> Eſquire, <hi>John Glyn</hi> Eſquire, Recorder of <hi>London,</hi> Sir <hi>Ambroſe Brown</hi> Baronet, Sir <hi>Poynings Moore</hi> Baronet, Sir <hi>Thomas Jervoice,</hi> Sir <hi>Richard Onſtowe,</hi> Sir <hi>Thomas Walſingham,</hi> Sir <hi>John Dingley,</hi> Sir <hi>John Lenthall,</hi> Sir <hi>John Howland,</hi> Sir <hi>William Ellyot,</hi> Sir <hi>Richard Bettenſon,</hi> Sir <hi>Matthew Brand,</hi> Sir <hi>Robert Parkhurſt,</hi> Sir <hi>Robert Wood,</hi> Sir <hi>Robert Needum,</hi> and Sir <hi>John Evelyn,</hi> Knights; <hi>John Liſle, Nicholas Stoughton, George Farewell, Henry Tunſtall, Anthur On<g ref="char:EOLhyphen"/>ſlow, Robert Goodwyn, George Evelyn</hi> of <hi>Wotton, Henry We<g ref="char:EOLhyphen"/>ſton, Thomas Sands, John Goodwyn, Edward Biſh</hi> junior, <hi>Henry Campion, Francis Drake, Robert Wood, John Farewell, Thomas Lock, John Cartwright, Edmund Jordan, Arthur Squibb, Iohn Turner, Thomas Smith, Richard Brown,</hi> E<g ref="char:EOLhyphen"/>ſquires; <hi>Robert Houghton, Cornelius Cook, Richard Wright, George Snelling, Thomas Hudſon, Henry Hardwick, Robert Holman, Sackford Gunſon, Robert Purſe, Robert Meade,</hi> Colonell <hi>Rowland Wilſon,</hi> and <hi>Iames Shirley,</hi> Gentlemen.</p>
+            <pb n="12" facs="tcp:113075:7"/>
+            <p>And it is likewiſe ordered and ordained, that there be once in a moneth a generall meeting of the ſaid Committee in ſome indifferent place in the ſaid Coun<g ref="char:EOLhyphen"/>ty, to be appointed by the Major part of the ſaid Com<g ref="char:EOLhyphen"/>mittee, at which meeting the ſaid Committee, or the Major part of them there aſſembled, are hereby requi<g ref="char:EOLhyphen"/>red and authorized to appoint what ſhall be reſpective<g ref="char:EOLhyphen"/>ly acted and performed, and by whom, in the ſeverall parts of the ſaid County, as well for the executing of this Ordinance in what concerns them, as for the exe<g ref="char:EOLhyphen"/>cuting of all other Ordinances heretofore made, and yet in force, to be excuted in the ſaid County: for the execution whereof, in their ſeverall and reſpective di<g ref="char:EOLhyphen"/>viſions, the Committees above named, or any three or more of them, are hereby inabled and authoriſed.</p>
+            <p>And it is further ordered and ordained, that there be an accompt monethly given to the ſaid Committee; at their ſaid generall meeting, of what ſhall be done there<g ref="char:EOLhyphen"/>in, by the ſeverall and reſpective Committees, in their ſeverall and reſpective diviſions and allotments.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
